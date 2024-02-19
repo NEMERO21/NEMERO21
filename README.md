@@ -54,19 +54,7 @@ You can find me on:
 - [LinkedIn](https://www.linkedin.com/in/shrestha-pundir-b97712242/)
 - [Email](mailto:work.shrestha.pundir@gmail.com)
 
-## Random Dev Meme of the Day 🤣
 
-<!-- Python code to fetch a random meme from data/data.json -->
-```python
-import json
-import random
-
-# Load meme data from the JSON file
-with open("data/data.json", encoding="utf-8") as file:
-    meme_data = json.load(file)
-
-# Choose a random meme from the data
-random_meme = random.choice(meme_data)
 
 # Display the meme title and URL
 print(f"### {random_meme['title']}")
