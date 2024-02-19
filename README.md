@@ -1,26 +1,55 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Shrestha Pundir
-=======================================================================================================================================
+# Hi there! 👋
 
-Data Analyst, Developer, CSE Student
-------------------------------------
+![Hello](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-🚀 Tech-savvy B.Tech CSE student at TIET(Patiala, India) 🎓 🌟 Master of C, C++, Python, R 🔍 Kaggle Notebooks & Dataset Expert 🛠️ VS Code, Jupyter, R Studio aficionado 📊 Data Visualization Guru: Tableau, ggplot2, Matplotlib ⚙️ ML Magician: TensorFlow, PyTorch, Scikit-learn, OpenCV, Hugging Face Transformers, Keras 🛢️ Databases: MySQL, MongoDB ☁️ Cloud Platforms: AWS, Google Cloud Platform 💬 Effective communicator & team player Ready to push boundaries and craft digital wonders! ✨
+I'm Shrestha Pundir, a passionate Data Analyst, Developer, and Computer Science Engineering student at TIET (Patiala, India).
 
-* 🌍  I'm based in India
-* 🖥️  See my portfolio at [Kaggle](http://www.kaggle.com/shresthapundir)
-* ✉️  You can contact me at [work.shrestha.pundir@gmail.com](mailto:work.shrestha.pundir@gmail.com)
-* 🤝  I'm open to collaborating on Data Science or any Python based projects
+## About Me
 
-### Skills
+🚀 Tech-savvy B.Tech CSE student at TIET(Patiala, India) 🎓  
+🌟 Master of C, C++, Python, R   
+🔍 Kaggle Notebooks & Dataset Expert  
+🛠️ VS Code, Jupyter, R Studio aficionado  
+📊 Data Visualization Guru: Tableau, ggplot2, Matplotlib  
+⚙️ ML Magician: TensorFlow, PyTorch, Scikit-learn, OpenCV, Hugging Face Transformers, Keras  
+🛢️ Databases: MySQL, MongoDB  
+☁️ Cloud Platforms: AWS, Google Cloud Platform  
+💬 Effective communicator & team player  
+✨ Ready to push boundaries and craft digital wonders! 
 
+## Skills
 
 <p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="R" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="AWS" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" />
 </p>
 
+## GitHub Stats
 
-### Socials
+![Shrestha Pundir's GitHub stats](https://github-readme-stats.vercel.app/api?username=NEMERO21&show_icons=true&theme=radical)
 
-<p align="left"> <a href="https://discord.com/users/_nemero" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" />
- <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/NEMERO21" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/shrestha-pundir-b97712242//" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.stackoverflow.com/users/23422695/nemero21" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow-dark.svg" />
- <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /> </picture> </a></p>
+## Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NEMERO21&layout=compact&theme=radical)
+
+## Projects
+
+- [Project 1](link-to-project-1): Description of project 1.
+- [Project 2](link-to-project-2): Description of project 2.
+- [Project 3](link-to-project-3): Description of project 3.
+
+## Let's Connect!
+
+You can find me on:
+
+- [Kaggle](http://www.kaggle.com/shresthapundir)
+- [LinkedIn](https://www.linkedin.com/in/shrestha-pundir-b97712242/)
+- [Email](mailto:work.shrestha.pundir@gmail.com)
