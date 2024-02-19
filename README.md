@@ -55,13 +55,3 @@ You can find me on:
 - [Email](mailto:work.shrestha.pundir@gmail.com)
 
 
-
-# Display the meme title and URL
-print(f"### {random_meme['title']}")
-print(f"![Random Dev Meme]({random_meme['url']})")
-
-# Display hashtags
-print("#### Hashtags:")
-for hashtag in random_meme['twitter_hashtags']:
-    print(hashtag)
-
