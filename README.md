@@ -42,7 +42,7 @@ I'm Shrestha Pundir, a passionate Data Analyst, Developer, and Computer Science 
 
 ## Projects
 
-- [Project 1](link-to-project-1): Description of project 1.
+- [Face Recognition Login System](https://github.com/NEMERO21/Face-Recognition-Login-System): A face recognition login system implemented using Python programming language and various libraries such as OpenCV, face recognition, tkinter, and PIL. The system provides an option to register a new user and to login.
 - [Project 2](link-to-project-2): Description of project 2.
 - [Project 3](link-to-project-3): Description of project 3.
 
