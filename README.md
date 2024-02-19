@@ -43,8 +43,8 @@ I'm Shrestha Pundir, a passionate Data Analyst, Developer, and Computer Science 
 ## Projects
 
 - [Face Recognition Login System](https://github.com/NEMERO21/Face-Recognition-Login-System): A face recognition login system implemented using Python programming language and various libraries such as OpenCV, face recognition, tkinter, and PIL. The system provides an option to register a new user and to login.
-- [Project 2](link-to-project-2): Description of project 2.
-- [Project 3](link-to-project-3): Description of project 3.
+- [Streamlit Sentiment Analysis Dashboard](https://github.com/NEMERO21/US-Airlines-Tweets-Sentiment-Analysis): This Streamlit application provides a comprehensive dashboard for analyzing sentiment in tweets about US airlines. The dashboard allows users to explore various visualizations and insights derived from the dataset.
+- [Clustering Algorithm Comparison](https://github.com/NEMERO21/Clustering-using-Pycaret): This repository evaluates the performance of various clustering algorithms under different preprocessing conditions and with varying numbers of clusters.
 
 ## Let's Connect!
 
