@@ -1,9 +1,5 @@
 # Hi there! 
 
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm ((NEMERO21)|Shrestha Pundir)" title="👋 Hi there! I'm ((NEMERO21|Shrestha Pundir)"/>]
-
-![visitors](https://vbr.nathanchung.dev/badge?page_id=Raymo111.Raymo111&color=00cf00)
-
 ![Hello](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
 I'm Shrestha Pundir, a passionate Data Analyst, Developer, and Computer Science Engineering student at TIET (Patiala, India).
