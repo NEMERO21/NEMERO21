@@ -38,10 +38,6 @@ I'm Shrestha Pundir, a passionate Data Analyst, Developer, and Computer Science 
 - [Streamlit Sentiment Analysis Dashboard](https://github.com/NEMERO21/US-Airlines-Tweets-Sentiment-Analysis): This Streamlit application provides a comprehensive dashboard for analyzing sentiment in tweets about US airlines. The dashboard allows users to explore various visualizations and insights derived from the dataset.
 - [Clustering Algorithm Comparison](https://github.com/NEMERO21/Clustering-using-Pycaret): This repository evaluates the performance of various clustering algorithms under different preprocessing conditions and with varying numbers of clusters.
 
-## GitHub Trophies
-
-![Shrestha Pundir's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=NEMERO21)
-
 ## Top Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NEMERO21&layout=compact&theme=radical)
