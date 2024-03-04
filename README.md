@@ -54,6 +54,10 @@ I'm Shrestha Pundir, a passionate Data Analyst, Developer, and Computer Science 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+## 👻Random Meme
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
 ## Let's Connect!
 
 You can find me on:
