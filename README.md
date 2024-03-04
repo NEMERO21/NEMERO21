@@ -42,11 +42,6 @@ I'm Shrestha Pundir, a passionate Data Analyst, Developer, and Computer Science 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NEMERO21&layout=compact&theme=radical)
 
-## Profile Summary Cards
-
-[![GitHub Profile Summary Cards](https://github-readme-stats.vercel.app/api/pin/?username=NEMERO21&repo=github-profile-summary-cards)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-
 ## Let's Connect!
 
 You can find me on:
@@ -54,6 +49,7 @@ You can find me on:
 - [Kaggle](http://www.kaggle.com/shresthapundir)
 - [LinkedIn](https://www.linkedin.com/in/shrestha-pundir-b97712242/)
 - [Email](mailto:work.shrestha.pundir@gmail.com)
+
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
