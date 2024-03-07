@@ -50,19 +50,9 @@ You can find me on:
 - [LinkedIn](https://www.linkedin.com/in/shrestha-pundir-b97712242/)
 - [Email](mailto:work.shrestha.pundir@gmail.com)
 
-<div style="display: flex; flex-direction: row;">
-  <!-- Random Dev Meme -->
-  <div style="flex: 1; margin-right: 20px;">
-    <h3>😂 Random Dev Meme</h3>
-    <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-  </div>
-
-  <!-- Random Dev Quote -->
-  <div style="flex: 1;">
-    <h3>✍️ Random Dev Quote</h3>
-    <img src='https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical'/>
-  </div>
-</div>
+|   😂 Random Dev Meme                        |   ✍️ Random Dev Quote                        |
+|--------------------------------------------|----------------------------------------------|
+| ![Random Dev Meme](https://randommeme-five.vercel.app/) | ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical) |
 
 ---
 
@@ -73,7 +63,6 @@ You can find me on:
 ## 👻Random Meme
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-
 
 
 
