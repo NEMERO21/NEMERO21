@@ -51,8 +51,8 @@ You can find me on:
 - [Email](mailto:work.shrestha.pundir@gmail.com)
 
 |   😂 Random Dev Meme                        |   ✍️ Random Dev Quote                        |👻Random Meme
-|--------------------------------------------|----------------------------------------------|
-| ![Random Dev Meme](https://randommeme-five.vercel.app/) | ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical) |![Jokes Card](https://readme-jokes.vercel.app/api
+|--------------------------------------------|----------------------------------------------|----------------------------------------------|
+| ![Random Dev Meme](https://randommeme-five.vercel.app/) | ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical) |![Jokes Card](https://readme-jokes.vercel.app/api|
 
 ---
 
