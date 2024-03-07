@@ -46,9 +46,9 @@ I'm Shrestha Pundir, a passionate Data Analyst, Developer, and Computer Science 
 
 You can find me on:
 
-- [Kaggle](http://www.kaggle.com/shresthapundir)
-- [LinkedIn](https://www.linkedin.com/in/shrestha-pundir-b97712242/)
-- [Email](mailto:work.shrestha.pundir@gmail.com)
+- 📊 [Kaggle](http://www.kaggle.com/shresthapundir): Explore my data science and machine learning projects.
+- 💼 [LinkedIn](https://www.linkedin.com/in/shrestha-pundir-b97712242/): Let's connect professionally and share insights.
+- 📧 Email: [work.shrestha.pundir@gmail.com](mailto:work.shrestha.pundir@gmail.com): Have an opportunity or just want to say hi? Shoot me an email!
 
 ## Developer Fun Zone
 
