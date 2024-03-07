@@ -58,6 +58,9 @@ You can find me on:
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+
 ## 👻Random Meme
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
