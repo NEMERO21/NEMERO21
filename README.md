@@ -6,7 +6,7 @@ I'm Shrestha Pundir, a passionate Data Analyst, Developer, and Computer Science 
 
 ## About Me
 
-🚀 Tech-savvy B.Tech CSE student at TIET(Patiala, India) 🎓  
+🎓 Tech-savvy B.Tech CSE student at TIET(Patiala, India)   
 🌟 Master of C, C++, Python, R   
 🔍 Kaggle Notebooks & Dataset Expert  
 🛠️ VS Code, Jupyter, R Studio aficionado  
